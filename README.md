@@ -2,4 +2,3 @@ Computer Vision Enthusiast with 9 years of Software Engineering experience. Expl
 
 Love a good cup of Java and traveling. I have been to 10 countries and next up to my list are: Peru, Alaska and Brazil <3
 
-<img width="1000" height="300" src="https://user-images.githubusercontent.com/31473347/164362283-b1b9793e-4577-4816-a8df-f42f54568b26.png">
